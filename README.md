@@ -74,10 +74,10 @@ The final letter grades shall be assigned according to the scales of
 
 |Weeks | Subjects|
 |------|:--------:|
-|1     |Python variables, loops, function|
-|2     |Python setup enironment*, advanced libraries|
-|3     |Integrals, derivatives|
-|4     |Interpolation, numpy/matplotlib/scipy intro*|
+|1     |[Python syntax](https://drive.google.com/file/d/1wevUP0SpOeNq95xituQF696qygQYpRz8/view?usp=share_link), [function](https://drive.google.com/file/d/1hUit0FZOAr1l-o2zaTzfpShf8fAz91Lb/view?usp=share_link)|
+|2     |Setup enironment*, [advanced libraries](https://drive.google.com/file/d/1qOCH65J61QYORvNXg0eXIMKxaHfXo_0Z/view?usp=share_link)|
+|3     |[Integrals](https://drive.google.com/file/d/13DRxYLtZNDPnVQfUJ2Yc6fcQJsJp8UMQ/view?usp=share_link), [derivatives](https://drive.google.com/file/d/13awAKbX_ammyixH-CLbsoYtZfCay7pRU/view?usp=share_link)|
+|4     |[Interpolation](https://drive.google.com/file/d/1qZaJY7xbHFGWtPPeYXPUpst3Q2zV4NEj/view?usp=sharing), numpy/matplotlib/scipy intro*|
 |5     |Fundamental Linear Algebra**|
 |6     |Linear Regression, PCA, SVD|
 |8     |Optmization 1st order methods|
