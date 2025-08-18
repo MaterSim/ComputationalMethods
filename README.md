@@ -74,13 +74,13 @@ The final letter grades shall be assigned according to the scales of
 
 |Weeks | Subjects|
 |------|:--------:|
-|1     |Python variables, loops, function)|
-|2     |Python setup enironment*, advanced libraries)|
-|3     |Integrals/derivatives|
+|1     |Python variables, loops, function|
+|2     |Python setup enironment*, advanced libraries|
+|3     |Integrals, derivatives|
 |4     |Interpolation, numpy/matplotlib/scipy intro*|
 |5     |Fundamental Linear Algebra**|
 |6     |Linear Regression, PCA, SVD|
 |8     |Optmization 1st order methods|
-|9     |Optmization 2nd order methods, scipy*|
+|9     |Optmization 2nd order methods, numpy/scipy intro*|
 |11    |Solving PDE using the Finite Difference methods|
 |12    |Code optimization Error analysis|
