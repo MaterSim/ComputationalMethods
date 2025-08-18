@@ -56,15 +56,31 @@ The final letter grades shall be assigned according to the scales of
 | D     | 60–69%           |
 | F     | < 60%            |
 
-## Course Summary (Instructions can be found in the Canvas course page)
+## Timeline
 
-| Date            | Details                           | Due        |
-|-----------------|-----------------------------------|------------|
-| Mon Sep 8, 2025 | Assignment HW1 – Python Programming | 11:59 PM   |
-| Mon Sep 22, 2025| Assignment HW2 – Gradient Integral  | 11:59 PM   |
-| Mon Oct 13, 2025| Assignment HW3 – Linear Algebra     | 11:59 PM   |
-| Tue Oct 21, 2025| Midterm Exam                        | 11:59 PM   |
-| Mon Oct 27, 2025| Assignment HW4 – Optimization       | 11:59 PM   |
-| Mon Nov 3, 2025 | Assignment HW5 – PDE                | 11:59 PM   |
-| Thu Nov 27, 2025| Team Project                        | 11:59 PM   |
-| Tue Dec 2, 2025 | Final Exam                          | 11:59 PM   |
+| Date            | Details                           |
+|-----------------|-----------------------------------|
+| Mon Sep 8, 2025 | Assignment HW1 – Python Programming |
+| Mon Sep 22, 2025| Assignment HW2 – Gradient Integral  |
+| Mon Oct 13, 2025| Assignment HW3 – Linear Algebra     |
+| Tue Oct 21, 2025| Midterm Exam                        |
+| Mon Oct 27, 2025| Assignment HW4 – Optimization       |
+| Mon Nov 3, 2025 | Assignment HW5 – PDE                |
+| Thu Nov 27, 2025| Team Project                        |
+| Tue Dec 2, 2025 | Final Exam                          |
+
+
+## Tentative Schedules
+
+|Weeks | Subjects|
+|------|:--------:|
+|1     |Python variables, loops, function)|
+|2     |Python setup enironment*, advanced libraries)|
+|3     |Integrals/derivatives|
+|4     |Interpolation, numpy/matplotlib/scipy intro*|
+|5     |Fundamental Linear Algebra**|
+|6     |Linear Regression, PCA, SVD|
+|8     |Optmization 1st order methods|
+|9     |Optmization 2nd order methods, scipy*|
+|11    |Solving PDE using the Finite Difference methods|
+|12    |Code optimization Error analysis|
