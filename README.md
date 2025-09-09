@@ -75,11 +75,11 @@ The final letter grades shall be assigned according to the scales of
 |Weeks | Subjects|
 |------|:--------:|
 |1     |[Python syntax](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_01_Python_syntax.ipynb), [function](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_02_Python_function.ipynb)|
-|2     |Setup enironment*, [advanced libraries](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_03_Python_library.ipynb)|
+|2     |Environment*, [advanced libraries](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_03_Python_library.ipynb)|
 |3     |[Integrals](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_04_integral.ipynb), [derivatives](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_05_derivative.ipynb)|
 |4     |[Interpolation](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_06_interpolation.ipynb), [Linear Algebra I](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_07_linear_algebra_1.ipynb)|
 |5     |[Linear Algebra II](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_08_linear_algebra_2.ipynb), [Linear Regression](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_09_linear_regression.ipynb)|
-|6     |numpy/matplotlib intro*, PCA/SVD|
+|6     |numpy/matplotlib*, PCA/SVD|
 |7     |Optmization 1st order, 2D problem|
 |8     |Quasi Newton, scipy intro*|
 |9     |PDE with the Finite Difference methods|
