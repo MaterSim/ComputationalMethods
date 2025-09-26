@@ -81,7 +81,7 @@ The final letter grades shall be assigned according to the scales of
 |5     |[Linear Algebra II](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_08_linear_algebra_2.ipynb), [Linear Regression](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_09_linear_regression.ipynb)|
 |6     |numpy/matplotlib*, [PCA/SVD](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_10_PCA.ipynb)|
 |7     |[Optmization 1st order](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_11_opt_1st_order.ipynb), [2D problem](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_12_2d_problem.ipynb)|
-|8     |Quasi Newton, scipy intro*|
+|8     |[Quasi Newton](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_13_quasi_newton.ipynb), scipy intro*|
 |9     |PDE with the Finite Difference methods|
 |10    |Code optimization Error analysis|
 |11    |Alternative numerical solutions|
