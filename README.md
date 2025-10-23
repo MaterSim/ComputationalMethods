@@ -82,7 +82,7 @@ The final letter grades shall be assigned according to the scales of
 |6     |numpy/matplotlib*, [PCA/SVD](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_10_PCA.ipynb)|
 |7     |[Optmization 1st order](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_11_opt_1st_order.ipynb), [2D problem](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_12_2d_problem.ipynb)|
 |8     |[Quasi Newton](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_13_quasi_newton.ipynb), scipy intro*|
-|9     |PDE with the Finite Difference methods|
-|10    |Code optimization Error analysis|
-|11    |Alternative numerical solutions|
+|9     |[PDE_intro](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_14_pde_intro.ipynb), [Explicit method](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_15_pde_explicit_error.ipynb)|
+|10    |[Implicit method](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_16_pde_implicit.ipynb), [2D PDEs](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_17_pde_2d.ipynb)|
+|11    |[Poisson](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_18_poisson.ipynb), [Wave](https://github.com/MaterSim/ComputationalMethods/blob/main/Lectures/Lec_19_wave.ipynb)|
 
